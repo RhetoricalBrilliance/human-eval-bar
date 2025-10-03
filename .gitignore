@@ -1,0 +1,11 @@
+# Python + envs
+evalbarenv/
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Models & data artifacts
+*.pt
+data/raw/*.jsonl
